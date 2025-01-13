@@ -32,7 +32,12 @@ This is a pre-configured template for new projects. Follow the steps below to ge
 
 ## Getting Started
 
-Clone this repository:
+how to use this template:
+
+	1.	在模板仓库页面，点击 “Use this template”。
+	2.	创建新仓库，并填写项目名称和描述。
+	3.	GitHub 会自动为您创建一个新仓库，且与模板内容一致。
+  之后只需克隆新仓库：
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
